@@ -22,6 +22,21 @@ A comprehensive analysis of unemployment trends using data visualization and sta
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run Jupyter Notebook: `jupyter notebook`
 
+## Project Structure
+```
+unemployment-analysis/
+├── notebooks/
+│   └── UnEmp.ipynb      # Main analysis notebook
+├── requirements.txt     # Project dependencies
+└── README.md           # Project documentation
+```
+
+## Running the Analysis
+1. Navigate to the notebooks directory: `cd notebooks`
+2. Start Jupyter Notebook: `jupyter notebook`
+3. Open `UnEmp.ipynb` in your browser
+4. Run the cells in sequence to reproduce the analysis
+
 ## Data Sources
 - Bureau of Labor Statistics (BLS)
 - Federal Reserve Economic Data (FRED)
